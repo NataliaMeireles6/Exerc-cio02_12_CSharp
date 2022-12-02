@@ -5,7 +5,6 @@ class Program {
 
     string nome, entrada;
     Double n1, n2, media;
-
     Console.WriteLine("Digite o nome do aluno");
     nome = Console.ReadLine();
     Console.WriteLine("Digite a primeira nota");
